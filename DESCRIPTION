@@ -1,0 +1,17 @@
+Package: scbPartiSympati
+Type: Package
+Title: SCB PartiSympati matning
+Version: 0.1.0
+Author: Göran Lindmark
+Maintainer: Göran Lindmark <lindmark.goran@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    pxweb,
+    dplyr,
+    ggplot2,
+    magrittr
+RoxygenNote: 7.1.2
